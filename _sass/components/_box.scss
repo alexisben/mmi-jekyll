@@ -1,0 +1,29 @@
+.box {
+    padding: 30px;
+    background: grey;
+    opacity: 0.5;
+    border: 2px solid red;
+    border-radius: 10px;
+    color: white;
+    width: 128px;
+    height: 128px;
+    margin-bottom: 30px;
+
+    h2 {
+        font-size: 16px;
+        color: white;
+    }
+    &.is-unlock {
+        opacity: 1;
+        border-color: yellow;
+    }
+}
+
+.boxes {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 300px;
+    margin: auto;
+}

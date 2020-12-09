@@ -155,3 +155,36 @@ La règle générale concernant ce dossier est qu’il ne devrait pas retourner 
 Et last but not least, la plupart des projets comportent un dossier vendors/ qui regroupe tous les fichiers CSS provenant de bibliothèques et frameworks externes — Normalize, Bootstrap, jQueryUI, FancyCarouselSliderjQueryPowered, etc. Le fait de les mettre ainsi de côté dans un dossier séparé est une bonne façon d’indiquer qu’ils ne sont pas de vous et ne relèvent pas de votre responsabilité.
 
 
+## DOCS du 9 décembre 
+
+Pour les includes jekyll
+
+https://jekyllrb.com/docs/includes/
+
+Pour flexbox : 
+
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+https://flexboxfroggy.com/#fr
+
+https://developer.mozilla.org/fr/docs/Web/CSS/CSS_Flexible_Box_Layout/Concepts_de_base_flexbox
+
+Vidéo sur Sass : 
+
+https://www.youtube.com/watch?v=aOccUzHD_MQ&ab_channel=Grafikart.fr
+
+https://www.sassmeister.com/
+
+https://codepen.io/
+
+https://codepen.io/alexisben (code pens de l'atelier Design Interactif)
+
+
+Media Query :
+
+https://developer.mozilla.org/fr/docs/Web/CSS/Requ%C3%AAtes_m%C3%A9dia/Utiliser_les_Media_queries
+
+https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
+
+https://itnext.io/writing-media-queries-with-sass-mixins-3ea591ea3ea4
+

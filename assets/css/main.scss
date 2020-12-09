@@ -1,4 +1,18 @@
 ---
 ---
 
-@import "main";
+@import 'abstracts/variables';
+
+@import 'base/reset';
+@import 'base/typography';
+@import 'base/commons';
+
+@import 'layouts/header';
+@import 'layouts/footer';
+
+@import 'components/buttons';
+@import 'components/box';
+
+@import 'sections/contact';
+@import 'sections/introduction';
+@import 'sections/trophy';
