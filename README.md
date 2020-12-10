@@ -188,3 +188,48 @@ https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
 
 https://itnext.io/writing-media-queries-with-sass-mixins-3ea591ea3ea4
 
+
+
+# Mettre en ligne sur Netlify : 
+
+1. Depuis Visual Code, à la racine du projet Jekyll, créer un fichier "Gemfile" (pas d'extension, respecté bien la casse).
+
+2. À l'intérieur copier-coller ce contenu :
+
+```
+source "https://rubygems.org"
+
+gem 'jekyll'
+```
+
+3. Versionnez votre code et pousser le sur le repo :
+
+```
+git add .
+
+git commit -m "Setup Jekyll for netlify deployment"
+
+git push
+```
+
+4. Créer un compte Netlify en vous connectant via votre compte Github : https://www.netlify.com/
+
+5. Créer un nouveau Site via le bouton "New site from Git"
+
+6. Sélectionnez votre repo github
+
+7. Si tout est OK, Netlify va automatiquement détecter que votre projet est un projet Jekyll. Assurez-vous que les champs suivant soient bien pré-remplis :
+
+> Branch to deploy : master
+>
+> Build command : jekyll build
+>
+> Publish directoy : _site/
+
+8. Validez en cliquant sur "Deploy site"
+
+9. Attendez que le site soit bien déployé (le premier déploiement peut prendre du temps), puis modifiez le sous-domaine par défaut en cliquant sur "Site settings" > "Change site name".
+
+10. Désormais, à chaque "git push", le site sera mis à jour, plus besoin d'intervenir !
+
+
