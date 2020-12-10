@@ -1,3 +1,16 @@
+html {
+    font-size: 16px;
+    @media (min-width: 320px) {
+        font-size: 14px;
+    } 
+}
+
+
+h1 {
+    font-size: 1rem; //== 16px
+}
+
+
 h1 {
     font-size: 30px;
     color: #000;
@@ -13,4 +26,9 @@ h3 {
     font-size: 16px;
     text-decoration: underline;
     color: #000;
+}
+
+
+.background {
+    background: url('../images/shapes/shape-01.svg') right top no-repeat, url('../images/shapes/shape-02.svg') right top no-repeat;
 }

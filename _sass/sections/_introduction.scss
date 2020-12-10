@@ -3,6 +3,11 @@
     padding: 20px;
     color: $color-2;
     position: relative;
+    
+    @include for-tablet-landscape-up {
+        padding: 100px;
+    }
+}
 
     h1, h2, h3 {
         color: $color-2;
@@ -36,4 +41,6 @@
         transform: rotate(30deg);
     }
 
+
 }
+
