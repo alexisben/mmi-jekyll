@@ -192,7 +192,7 @@ https://itnext.io/writing-media-queries-with-sass-mixins-3ea591ea3ea4
 
 # Mettre en ligne sur Netlify : 
 
-1. Depuis Visual Code, à la racine du projet Jekyll, créer un fichier "Gemfile" (pas d'extension, respecté bien la casse).
+1. Depuis Visual Code, à la racine du projet Jekyll, créer un fichier "Gemfile" (pas d'extension, respectez bien la casse).
 
 2. À l'intérieur copier-coller ce contenu :
 
