@@ -264,8 +264,6 @@ https://www.sassmeister.com/
 
 https://codepen.io/
 
-https://codepen.io/alexisben (des bouts de codes fait en cours qui peuvent vous être utiles)
-
 
 Media Query :
 
@@ -326,7 +324,7 @@ git push
 
 ### Exemples sur codepen : 
 
-https://codepen.io/alexisben/
+https://codepen.io/alexisben (des bouts de codes fait en cours qui peuvent vous être utiles)
 
 ### Tech:
 
