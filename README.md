@@ -160,6 +160,9 @@ jekyll s
 > ```
 
 
+5. Ajouter l'extension Liquid à Visual Code Studio : https://marketplace.visualstudio.com/items?itemName=sissel.shopify-liquid
+pour coloriser le code jekyll
+
 ## Setup du projet
 
 Une personne du groupe va créer le repository sur github. 
