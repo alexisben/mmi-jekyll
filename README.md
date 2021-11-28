@@ -7,11 +7,9 @@ https://jamstack.org/
 https://jekyllrb.com/
 
 
-# MMI2022 - Design d'interaction
-
 ## Summary
 * [Git & Github - Setup](#setup)
-* [Démarrer votre projet avec Jekyll](#demarrer-votre-projet-avec-jekyll)
+* [Démarrer votre projet avec Jekyll](#démarrer-votre-projet-avec-jekyll)
 * [Mettre en ligne avec Netlify](#mettre-en-ligne-sur-netlify)
 * [Liens utiles](#liens-utiles)
 
@@ -279,7 +277,7 @@ https://itnext.io/writing-media-queries-with-sass-mixins-3ea591ea3ea4
 
 
 
-# Mettre en ligne sur Netlify : 
+# Mettre en ligne sur Netlify
 
 1. Depuis Visual Code, à la racine du projet Jekyll, créer un fichier "Gemfile" (pas d'extension, respectez bien la casse).
 
