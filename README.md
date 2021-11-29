@@ -31,6 +31,11 @@ git config --global user.name "your_name_here"
 git config --global user.email "your_email@email.com"
 ```
 
+>  3.2 optionnel : changer l'editeur de texte par défaut de git 
+>
+>  https://docs.github.com/en/get-started/getting-started-with-git/associating-text-editors-with-git
+
+
 4. Un membre de votre équipe doit créer le repo de votre site web sur github.com
 
 5. Cette personne va ensuite ajouter des collaborateurs au repo :
@@ -57,6 +62,8 @@ MAC : https://www.youtube.com/watch?v=hPfgekYUKgk&ab_channel=LaCapsule
 
 PC : 
 https://www.youtube.com/watch?v=4o9qzbssfII&ab_channel=getCodingKnowledge
+
+
 
 
 ### Usage : 
