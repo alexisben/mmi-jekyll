@@ -63,7 +63,12 @@ MAC : https://www.youtube.com/watch?v=hPfgekYUKgk&ab_channel=LaCapsule
 PC : 
 https://www.youtube.com/watch?v=4o9qzbssfII&ab_channel=getCodingKnowledge
 
+### Pour sauvegarder votre login / password
 
+```
+git config credential.helper cache
+git push
+```
 
 
 ### Usage : 
